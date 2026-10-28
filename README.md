@@ -55,6 +55,11 @@ Steps:
 
 Setup guide (Chinese): https://yjack0000.cerana.tech/articles/post/d1998cfa-a871-463d-a026-77b468ff9fab
 
+## Archive
+
+- [`wip/2023-01-10-local`](https://github.com/YJack0000/hololens_aim_bot/tree/wip/2023-01-10-local): local changes from 2023-01-10 that were never committed. Based on an older commit; kept for reference, not for merging.
+- [mrtk3-prototype-2023-01](https://github.com/YJack0000/hololens_aim_bot/releases/tag/mrtk3-prototype-2023-01): source of the earlier MRTK3 + Vuforia practice project.
+
 ## Credits
 
 Built by [@williiam](https://github.com/williiam) and [@YJack0000](https://github.com/YJack0000) in January 2023. Upstream: [williiam/hololens_aim_bot](https://github.com/williiam/hololens_aim_bot).
